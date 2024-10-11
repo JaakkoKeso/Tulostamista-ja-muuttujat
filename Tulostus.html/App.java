@@ -3,7 +3,7 @@ public class App {
 
         // Tähän kirjoitellaan koodia
 
-        String nimi = "Jaakko Keso";
+        String nimi = "Jaakko";
 
         System.out.println("nimeni on " + nimi + " ja olen valkeakoskelta");
 
