@@ -11,7 +11,7 @@ public class App {
         int luku2 = 10;
         int tulos;
 
-        luku1 = 2;
+        luku1 = 5;
         tulos = luku1+luku2;
         System.out.println(luku1);
         System.out.println("Se tulos on tossa " + tulos);
