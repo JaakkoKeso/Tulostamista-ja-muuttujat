@@ -19,7 +19,7 @@ public class App {
 
 
 
-        System.out.println("Eka ohjelma");
+        System.out.println("Ensimmäinen ohjelma");
 
         System.out.println("H");
         System.out.println("A");
